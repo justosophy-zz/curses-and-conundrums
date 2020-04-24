@@ -1,2 +1,3 @@
-# curses-and-conundrums
-Exercises
+# Curses and Conundrums
+
+Various exercises
