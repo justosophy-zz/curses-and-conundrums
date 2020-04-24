@@ -66,7 +66,7 @@ leaf =
 branch =
 
 -- data RoseTree a = Node a (List (RoseTree a))
-data RoseTree a = Product (Identity a) (List (RoseTree a))
+data RoseTree a =
 
 -- singleNode = Node "all by myself" []
 singleNode =
