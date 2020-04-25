@@ -9,13 +9,13 @@
     2. You can no longer specify multiary data types using the `|` symbol.
     3. All your other types are gone: List, Maybe, (), tuples etc.
     4. Except you can still construct strings using literal syntax, `foo = "hello world"`
-    4. A "sacred set" of ancient data types appears to be hard coded at the top
+    5. A "sacred set" of ancient data types appears to be hard coded at the top
         of your file. These are exempt from rules 1. and 2. and cannot be modified.
     
     Find a way to recreate your data types and values (up to isomorphism) using
     what you find below.
 
-    Magic rule 5: All language extensions and other imports are broken.
+    Magic rule 6: All language extensions and other imports are broken.
     No funny business. You get it.
 -}
 
